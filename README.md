@@ -1,6 +1,7 @@
 # 📘 T4
 
 Este repositório contém a atividade WB-4, é composto por um front-end em React, TypeScript e Node.js e um back-end em Spring Boot.
+
 ---
 
 ## 🚀 Tecnologias e Versões Utilizadas
